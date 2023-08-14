@@ -11,4 +11,4 @@ Code of the function 'permalgorithm.realDat' and of the internal functions.
 Documentation for the function 'permalgorithm.realDat', including examples of its use.
 
 #### `data.RData`
-File including the dataset used in the examples presented in `Documentation.R`. 
+File including the dataset 'data_original' used in the examples presented in `Documentation.R`. 
