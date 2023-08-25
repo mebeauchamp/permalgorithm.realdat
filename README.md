@@ -4,7 +4,7 @@ For questions or comments about the code contact Marie-Eve Beauchamp (marie-eve.
 
 ## Content
 
-#### `permalgorithm.RealDat.R`
+#### `permalgorithm.realDat.R`
 Code of the function 'permalgorithm.realDat' and of the internal functions.
 
 #### `Documentation.R`
